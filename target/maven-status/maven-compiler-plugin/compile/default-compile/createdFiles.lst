@@ -1,0 +1,4 @@
+com\testing\SpringBootForDeployment\Controller\UserController.class
+com\testing\SpringBootForDeployment\Repo\UserRepository.class
+com\testing\SpringBootForDeployment\SpringBootForDeploymentApplication.class
+com\testing\SpringBootForDeployment\Model\User.class
